@@ -26,6 +26,9 @@ module.exports = {
     '@typescript-eslint/strict-boolean-expressions': 'off',
     '@typescript-eslint/no-unused-vars': 'off',
     'no-new': 'off',
+    '@typescript-eslint/restrict-template-expressions': 'off',
+    '@typescript-eslint/no-floating-promises': 'off',
+    'no-case-declarations': 'off',
     'prettier/prettier': [
       'error',
       {
